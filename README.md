@@ -123,9 +123,10 @@
 
 ## 文件语法高亮  
 `ctrl-shift-L` 选择文本类型  
-
-## 使用Atom进行写作  
-`ctrl-shift-M` Markdown预览  
+## 使用Atom进行写作  切换
+`ctrl-shift-M` Markdown预览  
+## 语言
+`ctrl-shift-l` 可以快速地切换语言，不用点击右下角`plain text`
 可用代码片段
 > b, legal, img, l, i, code, t, table
 
