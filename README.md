@@ -1,3 +1,7 @@
+## 个人的配置
+- Theme
+- Font
+- Packages
 ## 文件切换
 `ctrl-shift-s`  保存所有打开的文件  
 `cmd-shift-o`  打开目录  
