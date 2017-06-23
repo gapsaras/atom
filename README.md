@@ -39,8 +39,12 @@
 `a` 添加文件  
 `d` 将当前文件另存为(duplicate)  
 `i` 显示(隐藏)版本控制忽略的文件  
-`alt-right` 和 `alt-left` 展开(隐藏)所有目录  
-`ctrl-al-]` 和 `ctrl-al-[` 同上  
+`h` 关闭所在文件夹
+`l` 打开文件夹，如果为文件则焦点转移到文件中
+`j` 向上遍历
+`k` 向下遍历
+`alt-right` 和 `alt-left` 展开(隐藏)所有目录  
+`ctrl-al-]` 和 `ctrl-al-[` 同上   
 `ctrl-[` 和 `ctrl-]` 展开(隐藏)当前目录  
 `ctrl-f` 和 `ctrl-b` 同上  
 `cmd-k h` 或者 `cmd-k left` 在左半视图中打开文件  
