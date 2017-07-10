@@ -11,7 +11,7 @@
 `cmd-t`或`cmd-p` 查找文件  
 `cmd-b` 在打开的文件之间切换  
 `cmd-shift-b` 只搜索从上次git commit后修改或者新增的文件  
-`alt + cmd + ->/<-` 切换打开的文件tab （浏览器tab切换也可以使用这个， 也可以使用ctrl + tab)
+`alt + cmd + ->/<-` 切换打开的文件tab （浏览器tab切换也可以使用这个， 也可以使用ctrl + tab, terminal cmd+ shift + {/} 或者左右键)
 
 ## 导航  
 （等价于上下左右）  
